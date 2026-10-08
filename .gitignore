@@ -1,0 +1,23 @@
+# 번역 작업용 폴더 (사이트에서 사용하지 않음)
+tmp/
+output/
+translation-reference/
+
+# Python 자동 생성 파일
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows / macOS 시스템 파일
+desktop.ini
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Word/Excel 파일을 열어 둘 때 생기는 임시 파일
+~$*
+
+# 편집기 / Claude Code 로컬 설정
+.vscode/
+.claude/
